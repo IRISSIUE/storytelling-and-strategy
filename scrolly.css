@@ -131,3 +131,8 @@ map {
   font-size: 28px;
   font-weight: 700;
 }
+
+.text-content * {
+  text-align: left;
+  margin-bottom: 1rem;
+}
