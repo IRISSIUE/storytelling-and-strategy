@@ -14,6 +14,15 @@
   flex: 0 0 auto;
 }
 
+@media (min-width: 1024px) {
+   .scrolly-container {
+     margin: 2rem;
+   }
+   .sticky-container {
+     margin-left: 1rem;
+   }
+ }
+
 /* CSS properties common to all sticky content */
 .sticky-container {
   position: -webkit-sticky;
@@ -106,6 +115,7 @@ map {
 
 .step.is-active {
   opacity: 100%;
+  transition: opacity 1s linear;
 }
 
 .step p {
