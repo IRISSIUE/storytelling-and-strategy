@@ -119,8 +119,15 @@ map {
   margin: 5rem auto 5rem auto;
 }
 
-.text-content * {
+.text-content p {
   text-align: left;
   margin-bottom: 1rem;
   font-size: 24px;
+}
+
+.text-content h2 {
+  text-align: left;
+  margin-bottom: 1rem;
+  font-size: 28px;
+  font-weight: 700;
 }
