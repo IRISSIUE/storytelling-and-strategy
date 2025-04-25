@@ -111,7 +111,6 @@ map {
 .step p {
   text-align: center;
   padding: 1rem;
-  font-size: clamp(10px, 3.5vw, 24px);
 }
 
 .text-content {
