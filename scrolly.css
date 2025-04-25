@@ -111,6 +111,7 @@ map {
 .step p {
   text-align: center;
   padding: 1rem;
+  font-size: 24px;
 }
 
 .text-content {
@@ -121,4 +122,5 @@ map {
 .text-content * {
   text-align: left;
   margin-bottom: 1rem;
+  font-size: 24px;
 }
